@@ -22,13 +22,3 @@ https://user-images.githubusercontent.com/79416650/194739539-9375de68-2e6b-4e66-
 </p>
 
 
-
-### Connect with Us
-<p align="left">
-<a href = "https://www.linkedin.com/in/harsh-singh-rajawat-b3ab4911b/?originalSubdomain=in"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>Harsh Singh Rajawat</a>
-</p>
-
-<p align="left">
-<a href = "https://www.linkedin.com/in/sahil-vishwakarma-4705801b2/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>Sahil</a>
-</p>
-
