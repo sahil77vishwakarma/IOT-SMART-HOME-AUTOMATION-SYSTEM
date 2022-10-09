@@ -10,6 +10,8 @@ This project presents the overall design of Home Automation System (HAS) with lo
 https://user-images.githubusercontent.com/79416650/194739539-9375de68-2e6b-4e66-b077-a293d3c2c989.mp4
 ## Watch full Video : - https://youtu.be/FPMZkJAXqs8
 
+<br>
+
 # HOME SERVER APPLICATION
 ## Screenshots
 
